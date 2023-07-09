@@ -1,6 +1,7 @@
 {
   "name": "emm-fe-gc-t35.3-06-07-23",
   "version": "0.0.0",
+  "homepage": "https://github.com/emagrina/emm-fe-gc-t35.3-06-07-23/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
